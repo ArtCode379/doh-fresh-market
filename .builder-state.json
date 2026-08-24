@@ -1,6 +1,6 @@
 {
-  "phase": "scaffold_cloned",
-  "updated_at": "2026-08-24T05:43:30.945496+00:00",
+  "phase": "github_push_started",
+  "updated_at": "2026-08-24T06:06:56.988362+00:00",
   "slug": "doh-fresh-market",
   "type": "shop",
   "package": "dohdohs.grocery.dohfreshmarket",
@@ -12,6 +12,15 @@
   "domain": "https://dohdohs.casa",
   "company": "DOH-DOHS LTD",
   "repo_url": "https://github.com/ArtCode379/doh-fresh-market",
-  "quality_status": "not_run",
-  "build_status": "not_run"
+  "quality_status": "passed",
+  "build_status": "passed",
+  "icon_primary": "#2D6A4F",
+  "icon_status": "imagegen",
+  "icon_error": "generate-icon.sh exited 1",
+  "quality_attempt": 2,
+  "quality_errors": 0,
+  "quality_result_file": "/tmp/doh-fresh-market/quality-result.txt",
+  "build_exit_code": 0,
+  "build_result_file": "/tmp/doh-fresh-market/build-result.txt",
+  "build_attempt": 2
 }

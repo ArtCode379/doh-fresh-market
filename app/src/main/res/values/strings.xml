@@ -5,7 +5,7 @@
     <string name="huffn_price">£%1$.2f</string>
 
     <!-- top bar titles -->
-    <string name="huffn_top_bar_home_title">Home/App Title</string>
+    <string name="huffn_top_bar_home_title">Doh Fresh Market</string>
     <string name="huffn_top_bar_cart_title">Cart</string>
     <string name="huffn_top_bar_checkout_title">Checkout</string>
     <string name="huffn_top_bar_orders_title">Orders</string>
@@ -64,9 +64,15 @@
     <string name="huffn_settings_screen_company_label">Company</string>
     <string name="huffn_settings_screen_version_label">Version</string>
     <string name="huffn_settings_screen_customer_support_label">Customer Support</string>
-    <string name="huffn_company_name">Company Name</string>
+    <string name="huffn_company_name">DOH-DOHS LTD</string>
     <string name="huffn_app_version">1.0.0</string>
-    <string name="huffn_customer_support_link">https://website.org/</string>
+    <string name="huffn_customer_support_link">https://dohdohs.casa</string>
+
+    <string name="huffn_category_fruit">Fruit</string>
+    <string name="huffn_category_vegetables">Vegetables</string>
+    <string name="huffn_category_bakery">Bakery</string>
+    <string name="huffn_category_drinks">Drinks</string>
+    <string name="huffn_category_desserts">Desserts</string>
 
     <!-- clear cart dialog -->
     <string name="huffn_clear_cart_dialog_title">Clear cart?</string>
