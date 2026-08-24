@@ -1,0 +1,17 @@
+{
+  "phase": "scaffold_cloned",
+  "updated_at": "2026-08-24T05:43:30.945496+00:00",
+  "slug": "doh-fresh-market",
+  "type": "shop",
+  "package": "dohdohs.grocery.dohfreshmarket",
+  "prefix": "HUFFN",
+  "app_name": "Doh Fresh Market",
+  "task_gid": "1217484336586847",
+  "task_name": "GB GW4 C1538",
+  "asana_url": "https://app.asana.com/1/1208304498069546/project/1213586227413017/task/1217484336586847",
+  "domain": "https://dohdohs.casa",
+  "company": "DOH-DOHS LTD",
+  "repo_url": "https://github.com/ArtCode379/doh-fresh-market",
+  "quality_status": "not_run",
+  "build_status": "not_run"
+}
